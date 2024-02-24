@@ -23,5 +23,6 @@
 ![Black Resin BeTheOne](/doc/gallery/bksl36_betheone.jpg)
 
 ## v2.0
+![splash](/doc/gallery/splash.jpg)
 ![smoke](/doc/gallery/smoke.jpeg)
 ![future](/doc/gallery/future.jpeg)
